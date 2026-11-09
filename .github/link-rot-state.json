@@ -19,16 +19,16 @@
     "consecutive_failures": 19,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": null,
+    "last_class": "BLOCKED",
+    "last_status": 403,
     "redirect_to": null
   },
   "https|astaxie.gitbooks.io|/build-web-application-with-golang/content/en|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": 401,
     "redirect_to": null
   },
   "https|austinmorlan.com|/posts/chip8_emulator|": {
@@ -96,7 +96,7 @@
     "redirect_to": null
   },
   "https|blog.bitsrc.io|/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59|": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "first_failed": "2026-11-02",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -416,7 +416,7 @@
     "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 18,
+    "consecutive_failures": 19,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -912,7 +912,7 @@
     "redirect_to": null
   },
   "https|hackclub.com|/workshops|": {
-    "consecutive_failures": 19,
+    "consecutive_failures": 20,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -984,7 +984,7 @@
     "redirect_to": null
   },
   "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
-    "consecutive_failures": 19,
+    "consecutive_failures": 20,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -1104,7 +1104,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 19,
+    "consecutive_failures": 20,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1261,7 +1261,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c51629c39e077af1e21f90f5ec"
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c61c29c09a027af5ea038ff8ec"
   },
   "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
     "consecutive_failures": 0,
@@ -1891,17 +1891,17 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://realpython.com/learning-paths/flask-by-example/"
   },
   "https|realpython.com|/blog/python/web-scraping-with-scrapy-and-mongodb|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://realpython.com/web-scraping-with-scrapy-and-mongodb/"
   },
   "https|robertheaton.com|/2018/06/12/programming-projects-for-advanced-beginners-ascii-art|": {
     "consecutive_failures": 0,
@@ -2400,7 +2400,7 @@
     "redirect_to": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app-part-2|": {
-    "consecutive_failures": 13,
+    "consecutive_failures": 14,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2408,7 +2408,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app|": {
-    "consecutive_failures": 13,
+    "consecutive_failures": 14,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2416,7 +2416,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2|": {
-    "consecutive_failures": 13,
+    "consecutive_failures": 14,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2424,7 +2424,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead|": {
-    "consecutive_failures": 13,
+    "consecutive_failures": 14,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2432,7 +2432,7 @@
     "redirect_to": null
   },
   "https|www.codewall.co.uk|/laravel-crud-demo-with-resource-controller-tutorial|": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "first_failed": "2026-11-02",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -2552,10 +2552,10 @@
     "redirect_to": null
   },
   "https|www.fullstackreact.com|/articles/react-tutorial-cloning-yelp|": {
-    "consecutive_failures": 0,
-    "first_failed": null,
+    "consecutive_failures": 1,
+    "first_failed": "2026-11-09",
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
+    "last_class": "HARD_DEAD",
     "last_status": null,
     "redirect_to": null
   },
@@ -2579,41 +2579,41 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.intertech.com/xamarin-tutorial-part-1-create-a-blank-app/"
   },
   "https|www.learnopencv.com|/average-face-opencv-c-python-tutorial|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://learnopencv.com/average-face-opencv-c-python-tutorial/"
   },
   "https|www.learnopencv.com|/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-rcnn-in-opencv-python-c/"
   },
   "https|www.learnopencv.com|/eigenface-using-opencv-c-python|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://learnopencv.com/eigenface-using-opencv-c-python/"
   },
   "https|www.learnopencv.com|/hand-keypoint-detection-using-deep-learning-and-opencv|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/"
   },
   "https|www.pubnub.com|/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code|": {
     "consecutive_failures": 0,
@@ -2867,8 +2867,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|www.swift.org|/getting-started/swiftui|": {
@@ -3259,8 +3259,8 @@
     "consecutive_failures": 19,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": null,
+    "last_class": "BLOCKED",
+    "last_status": 403,
     "redirect_to": null
   },
   "http|codecapsule.com|/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents|": {
@@ -3288,7 +3288,7 @@
     "redirect_to": "https://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/"
   },
   "http|dev.stephendiehl.com|/fun|": {
-    "consecutive_failures": 4,
+    "consecutive_failures": 5,
     "first_failed": "2026-10-12",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3324,8 +3324,8 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 204,
-    "redirect_to": null
+    "last_status": 200,
+    "redirect_to": "https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html"
   },
   "http|javilop.com|/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners|": {
     "consecutive_failures": 0,
@@ -3424,7 +3424,7 @@
     "redirect_to": null
   },
   "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
-    "consecutive_failures": 19,
+    "consecutive_failures": 20,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
