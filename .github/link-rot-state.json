@@ -96,7 +96,7 @@
     "redirect_to": null
   },
   "https|blog.bitsrc.io|/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59|": {
-    "consecutive_failures": 3,
+    "consecutive_failures": 4,
     "first_failed": "2026-11-02",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -416,7 +416,7 @@
     "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 20,
+    "consecutive_failures": 21,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -508,7 +508,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|developer.mozilla.org|/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser|": {
@@ -912,7 +912,7 @@
     "redirect_to": null
   },
   "https|hackclub.com|/workshops|": {
-    "consecutive_failures": 21,
+    "consecutive_failures": 22,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -984,7 +984,7 @@
     "redirect_to": null
   },
   "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
-    "consecutive_failures": 21,
+    "consecutive_failures": 22,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -1104,7 +1104,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 21,
+    "consecutive_failures": 22,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1261,7 +1261,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c71029c39f0b7af6e10386fd"
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c11335dc99046deee01e88e3e9bdb8"
   },
   "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
     "consecutive_failures": 0,
@@ -2400,7 +2400,7 @@
     "redirect_to": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app-part-2|": {
-    "consecutive_failures": 15,
+    "consecutive_failures": 16,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2408,7 +2408,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app|": {
-    "consecutive_failures": 15,
+    "consecutive_failures": 16,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2416,7 +2416,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2|": {
-    "consecutive_failures": 15,
+    "consecutive_failures": 16,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2424,7 +2424,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead|": {
-    "consecutive_failures": 15,
+    "consecutive_failures": 16,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2432,7 +2432,7 @@
     "redirect_to": null
   },
   "https|www.codewall.co.uk|/laravel-crud-demo-with-resource-controller-tutorial|": {
-    "consecutive_failures": 3,
+    "consecutive_failures": 4,
     "first_failed": "2026-11-02",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -2552,7 +2552,7 @@
     "redirect_to": null
   },
   "https|www.fullstackreact.com|/articles/react-tutorial-cloning-yelp|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-11-09",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3288,7 +3288,7 @@
     "redirect_to": "https://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/"
   },
   "http|dev.stephendiehl.com|/fun|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-10-12",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3315,16 +3315,16 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": null,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog"
   },
   "http|javarevisited.blogspot.com|/2015/06/how-to-create-http-server-in-java-serversocket-example.html|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html"
   },
   "http|javilop.com|/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners|": {
@@ -3424,7 +3424,7 @@
     "redirect_to": null
   },
   "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
-    "consecutive_failures": 21,
+    "consecutive_failures": 22,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3592,7 +3592,7 @@
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-1-ethernet-arp|": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3600,7 +3600,7 @@
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-2-ipv4-icmpv4|": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3608,7 +3608,7 @@
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-3-tcp-handshake|": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3616,7 +3616,7 @@
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api|": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3624,7 +3624,7 @@
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-5-tcp-retransmission|": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
